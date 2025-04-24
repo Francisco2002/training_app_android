@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Training App</string>
+    <string name="email_placeholder">E-mail</string>
+    <string name="password_placeholder">Senha</string>
+    <string name="login_title">Vamos iniciar os treinos!</string>
+    <string name="login_subtitle">Entre com suas credenciais</string>
+    <string name="forget_password">Esqueceu a senha?</string>
+    <string name="login">Entrar</string>
+    <string name="new_account">Novo por aqui? Crie uma conta!</string>
+</resources>

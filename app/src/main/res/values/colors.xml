@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#CECECE</color>
+    <color name="blue">#0000FF</color>
+
+    <color name="card_color">#6a6d69</color>
+    <color name="login_title">#131c1b</color>
+    <color name="input_background">#3d413e</color>
+    <color name="forget_password_color">#5c949c</color>
+    <color name="login_button">#9e9474</color>
+
+    <color name="input_hint_color">#3d413e</color>
+    <color name="input_text_color">#131c1b</color>
+</resources>
