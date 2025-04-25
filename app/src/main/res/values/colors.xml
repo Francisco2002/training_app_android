@@ -15,4 +15,5 @@
     <color name="input_text_color">#131c1b</color>
 
     <color name="status_bar_background">#5C949C</color>
+    <color name="background">#F0F7F4</color>
 </resources>
